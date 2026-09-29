@@ -1,0 +1,2 @@
+{"action": "export", "actor": "bob", "category": "data", "detail": {}, "event_id": "e2", "schema_version": 1, "source": "legacy", "timestamp": "2026-09-29T13:34:32.072787+00:00"}
+{"action": "restart", "actor": "carol", "category": "system", "detail": {}, "event_id": "e3", "schema_version": 1, "source": "syslog", "timestamp": "2026-09-29T14:34:32.072787+00:00"}

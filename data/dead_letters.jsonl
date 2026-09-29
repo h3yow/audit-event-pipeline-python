@@ -1,0 +1,1 @@
+{"message": "必填字段缺失: timestamp", "raw": {"id": "bad-1", "user": "mallory"}, "reason": "missing_field", "rejected_at": "2026-09-29T14:34:32.073931+00:00", "source": "app-json"}

@@ -1,0 +1,5 @@
+{"action": "kept", "category": "access", "event_id": "e1", "policy_version": 1, "reason": "类别 access 保留 90 天，事件已存 0.00 天，未到期", "run_at": "2026-09-29T14:34:32.072787+00:00"}
+{"action": "kept", "category": "data", "event_id": "e2", "policy_version": 1, "reason": "类别 data 保留 180 天，事件已存 0.04 天，未到期", "run_at": "2026-09-29T14:34:32.072787+00:00"}
+{"action": "kept", "category": "system", "event_id": "e3", "policy_version": 1, "reason": "类别 system 保留 0 天，事件已存 0.00 天，未到期", "run_at": "2026-09-29T14:34:32.072787+00:00"}
+{"action": "kept", "category": "access", "event_id": "e1", "policy_version": 1, "reason": "类别 access 保留 90 天，事件已存 0.00 天，未到期", "run_at": "2026-09-29T14:34:32.072787+00:00"}
+{"action": "run_summary", "kept": 4, "policy_version": 1, "purged": 0, "run_at": "2026-09-29T14:34:32.072787+00:00", "total": 4}
